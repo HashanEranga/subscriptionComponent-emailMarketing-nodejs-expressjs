@@ -1,0 +1,23 @@
+{
+  "name": "subscriptioncomponent-emailmarketing-nodejs-expressjs",
+  "version": "1.0.0",
+  "description": "Simple subsription model creating using NodeJS and ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashanEranga/subscriptionComponent-emailMarketing-nodejs-expressjs.git"
+  },
+  "author": "Hashan Eranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HashanEranga/subscriptionComponent-emailMarketing-nodejs-expressjs/issues"
+  },
+  "homepage": "https://github.com/HashanEranga/subscriptionComponent-emailMarketing-nodejs-expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
